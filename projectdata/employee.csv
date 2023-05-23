@@ -1,0 +1,240 @@
+Employee ID,Employee Name,Domain,Year Experience,Emp Working status,Project Count,Projectitle,ProjectStatus
+SS102,jack,Front-end Developer,4,95,4,CPD Platform – Integrations,90
+SS103,levi,Database,0,55,1,Archibus Upgrade Project,92
+SS104,alexander,Back-end Developer,1,85,3,DSpace 7 Upgrades,75
+SS105,william,Back-end Developer,7,90,2,Interfaces to digital services,70
+SS106,noah,Front-end Developer,8,80,4,Research Services Architecture Security Review,85
+SS107,liam,Database,4,75,3,DataStore Fibre Channel Replacement,80
+SS111,jackson,Front-end Developer,0,50,1,Enterprise Infrastructure Migrations,83
+SS112,daniel,Database,2,60,7,Marketing Performance and Analytics Framework,77
+SS113,michael,Back-end Developer,4,85,5,Vernon Procurement Review,81
+SS114,mason,Front-end Developer,1,75,1,Contact Database for Estates Help Desk,74
+SS115,logan,Database,8,95,3,Interoperation with EIDF architecture and service design,95
+SS116,johan,Back-end Developer,9,99,8,Improving access mechanisms to compute and data,90
+SS117,joseph,Front-end Developer,2,70,4,Timetabling Upgrade to V4,70
+SS118,david,Database,0,50,1,General Microsoft Teams Room,95
+SS119,luke,Back-end Developer,7,65,6,APUC - AV Procurement Framework,93
+SS120,julian,Front-end Developer,8,85,7,Research Staff Salary Charging Process,95
+SS121,hudson,Database,1,75,1,Upgrading the Projects Website ,80
+SS122,Ezra,Back-end Developer,6,90,5,St Cecilias Meeting Rooms,85
+SS123,luca,Front-end Developer,0,50,1,Inspace Hybrid Upgrade,95
+SS124,dylan,Database,2,65,5,Locally Managed Windows Devices - Setting a Strategy,90
+SS125,linclon,Back-end Developer,8,95,6,Data Warehouse Enhancements 2022-23,86
+SS126,thomas,Database,1,75,1,CentOS 7 EOL,87
+SS127,jaxon,Front-end Developer,5,85,8,HDS Payroll Document PDF Generator,82
+SS128,nathan,Back-end Developer,4,90,4,Edinburgh College of Art Project (ECAP) - Stage 2,96
+SS129,nolan,Database,1,65,1,Teviot Row House Project (TRHP) - Stage 2,90
+SS130,eli,Front-end Developer,0,50,6,Email Migration for the School of Physics and Astronomy (SoPA),75
+SS131,angel,Database,2,85,3,Digital Library Services Resourcing Model,70
+SS132,cooper,Back-end Developer,6,95,8,Research Services Network Security Review,93
+SS133,waylon,Back-end Developer,4,90,9,Enhanced Space Management for EFI,90
+SS134,colton,Front-end Developer,0,60,1,CRC Small Upgrades 2022,85
+SS135,brooks,Database,1,85,4,Professional Development (Learning and Development),80
+SS136,joseph,Front-end Developer,4,95,6,Unified Resourcing Process,86
+SS137,parker,Back-end Developer,6,90,1,Information Signposting ,95
+SS138,weston,Front-end Developer,1,65,8,Process Mapping Framework,91
+SS139,austin,Database,8,95,4,MVM Information Security Compliance,92
+SS140,declan,Back-end Developer,9,90,5,CAHSS Digital Skills & Capability Review,87
+SS146,micah,Database,7,85,6,HDS Recruitment,93
+SS148,kayden,Back-end Developer,1,65,1,Collections@Ed Website Implementation,95
+SS149,gael,Front-end Developer,0,50,1,Biomedical Sciences Hybrid,90
+SS150,river,Database,8,95,2,University card access control for laboratory equipment,85
+SS151,ryder,Back-end Developer,7,90,8,BMTO East West Teaching Labs,82
+SS152,Chester,Front-end Developer,2,80,5,ML-Careers Meeting Rooms,86
+SS154,Kai,Database,4,90,4,HDS Recruitment,94
+SS155,Rupert,Back-end Developer,0,50,1,BMS Honours Project portal enhancements,96
+SS156,Yusuf,Front-end Developer,8,65,4,Rotations Feedback,97
+SS157,Harvey,Database,4,75,7,St Leonards 2.35,95
+SS158,Ollie,Back-end Developer,2,85,1,Year 4 Outpatient Booking System,90
+SS158,Jackson,Database,3,95,5,Mailing list service upgrade,74
+SS159,Tobias,Front-end Developer,0,50,1,ECA MiniPortfolio Procurement and Implementation,95
+SS160,Nathan,Database,1,65,4,Microsoft Software Licensing Agreement Renewal ,90
+SS161,Myles,Back-end Developer,4,70,5,Easter Bush 2022 Upgrades,70
+SS162,Mia,Database,9,95,3,Chancellors GU1.08 Aud A,95
+SS163,Willow,Front-end Developer,0,50,1,Chancellors GU2.16 Aud B,93
+SS164,Rosie,Back-end Developer,1,65,9,EDSCCU 1.02-G.14-G.15,95
+SS165,Sophia,Database,7,95,7,Vet School G.36-G.49-2.35,80
+SS166,Lily,Front-end Developer,8,90,4,SSPS - AV Summer 2022,85
+SS167,Emily,Back-end Developer,5,75,3,Easter Bush PM & OBVS Room,95
+SS168,Ella,Database,1,60,1,Student Support - New Model in EUCLID,90
+SS169,Maya,Front-end Developer,0,50,1,"Patersons Land and St Leonards Land, AV Upgrades, 2022",86
+SS170,Alice,Back-end Developer,4,95,7,P&M – Data Migration – Finance Ops,87
+SS171,Mila,Front-end Developer,2,65,1,LST - AV Procurement Framework,82
+SS172,Bonnie,Database,8,95,4,IDM Support Interface,96
+SS173,Eva,Back-end Developer,2,75,6,P&M – Data Migration – Research,90
+SS174,Erin,Front-end Developer,1,90,2,P&M – Data Migration – Estates,75
+SS175,Zara,Database,4,95,8,Desktop CoA Converter ,70
+SS176,Ellie,Back-end Developer,7,80,6,Data Vault V : Code Refactoring Development,93
+SS177,Gracie,Front-end Developer,2,85,4,CPD Market Research,90
+SS179,Lyra,Database,0,50,1,"CPD Platform - Requirements, Market Analysis and Business Case",85
+SS180,Amber,Back-end Developer,7,95,3,Learn Ultra: Learn Foundations,80
+SS185,Hannah,Front-end Developer,5,85,8,Learn Ultra: Training and Support,86
+SS183,Clara,Database,9,90,7,Learn Ultra: Communications and Engagement,95
+SS184,Holly,Back-end Developer,1,70,1,CAHSS WAM Market Review,91
+SS185,Lilly,Database,1,65,1,Online Students and Staff Communities - Business Case,92
+SS186,Noah,Front-end Developer,0,50,1,Learn Ultra: Technical,87
+SS187,Oliver,Back-end Developer,3,70,4,Fees processing analysis ,93
+SS188,George,Database,7,90,7,Bayes Meeting rooms – Bose VB1 Laptop Loom,95
+SS190,Arthur,Front-end Developer,8,95,5,Bells Meeting room hybrid – The Pleasance,90
+SS191,Leo,Database,0,50,1,Team Room hybrid – Peffermill,85
+SS192,Harry,Back-end Developer,2,65,3,New College AV Upgrades,82
+SS193,Oscar,Back-end Developer,9,90,7,Fees processing analysis ,86
+SS194,Archie,Front-end Developer,7,85,8,HR - Patersons Land G44 Room Upgrade,94
+SS195,Henry,Database,4,65,4,KB - JCMB 2511 – Physics Hybrid Zoom Room,96
+SS197,Freddie,Front-end Developer,1,65,1,TAP22-Geography 2.01 & 2.05,97
+SS198,Jack,Back-end Developer,0,50,1,Crestron MTR 2022,95
+SS200,Charlie,Front-end Developer,4,65,5,HR Data feed for Schools,90
+SS210,Theo,Database,8,90,7,Learn Ultra: Ultra Base Navigation,74
+SS211,Alfie,Back-end Developer,7,85,9,DAMS Migration Proof of Concept,95
+SS212,finley,Database,1,55,1,Digital Badges - Standards and Governance,90
+SS213,William,Back-end Developer,5,80,6,API Upgrade,70
+SS215,Lucas,Front-end Developer,4,95,5,Annual Maria DB Upgrade,95
+SS216,Roman,Database,0,50,1,Blogs.ed.ac.uk Upgrade Project,93
+SS218,Tommy,Back-end Developer,2,65,2,"George Sq, 50, AV Upgrade, 2022",95
+SS219,Isaac,Front-end Developer,2,85,3,Replace Turnitin Feedback Studio (B2) Integration in Learn to LTI 1.3,80
+SS220,Teddy,Database,1,65,1,Culture Lab/Dig It Up,85
+SS221,James,Back-end Developer,7,95,5,Annual Disaster Recovery for Priority Services Test,95
+SS222,Joshua,Front-end Developer,8,90,6,Online Course and OER Brochures,90
+S223,Albie,Database,0,50,1,IRM Onboarding - Business School Industry Activity ,86
+SS224,Max,Back-end Developer,5,65,2,Annual Upgrade of Development Tools + Frameworks,87
+SS225,Mohammed,Database,4,75,9,Result Days and Clearing 2022 Helpline,82
+SS226,Mason,Front-end Developer,6,95,4,Understanding Learning Analytics on MS Teams,96
+SS228,Rory,Database,1,65,1,Understanding Learning Analytics on MS Teams,90
+SS229,Jude,Back-end Developer,7,95,6,SoEngineering 2022 AV Upgrades,75
+SS230,Louis,Database,6,80,4,Charteris Levels 3 + 4,70
+SS231,Logan,Front-end Developer,0,50,1,Thomson's Land + GT Hall,93
+SS234,finch,Back-end Developer,1,65,1,Digital Strategy Implementation,90
+SS235,smith,Database,5,90,4,Perspective Upgrade,85
+SS236,holder,Front-end Developer,8,95,6,"George Sq, 40, AV Upgrade, 2022",80
+SS237,Kai,Back-end Developer,9,85,5,Year 4 Outpatient Booking System,95
+SS238,Rupert,Database,7,75,6,Mailing list service upgrade,75
+SS239,Yusuf,Front-end Developer,1,90,1,ECA MiniPortfolio Procurement and Implementation,85
+SS240,Harvey,Back-end Developer,0,50,1,Microsoft Software Licensing Agreement Renewal ,80
+SS241,Ollie,Database,8,65,5,Easter Bush 2022 Upgrades,70
+SS242,Jackson,Front-end Developer,7,95,4,Chancellors GU1.08 Aud A,90
+SS243,Tobias,Database,2,75,6,Chancellors GU2.16 Aud B,95
+SS244,Nathan,Back-end Developer,4,85,4,EDSCCU 1.02-G.14-G.15,85
+SS245,Myles,Database,0,90,1,Vet School G.36-G.49-2.35,70
+SS246,Mia,Front-end Developer,8,65,5,SSPS - AV Summer 2022,92
+SS247,Willow,Back-end Developer,4,50,8,Easter Bush PM & OBVS Room,77
+SS248,Rosie,Database,2,85,3,Student Support - New Model in EUCLID,85
+SS249,Sophia,Front-end Developer,3,95,2,"Patersons Land and St Leonards Land, AV Upgrades, 2022",90
+SS250,Lily,Back-end Developer,0,90,1,P&M – Data Migration – Finance Ops,73
+SS251,Emily,Database,1,60,1,LST - AV Procurement Framework,70
+SS252,Ella,Front-end Developer,4,85,6,IDM Support Interface,86
+SS253,Maya,Back-end Developer,9,95,5,P&M – Data Migration – Research,90
+SS254,Alice,Front-end Developer,0,90,1,P&M – Data Migration – Estates,95
+SS255,Mila,Database,1,65,1,Desktop CoA Converter ,85
+SS256,Bonnie,Back-end Developer,7,95,5,Data Vault V : Code Refactoring Development,86
+SS257,Eva,Front-end Developer,8,90,7,CPD Market Research,75
+SS258,Erin,Database,5,85,4,"CPD Platform - Requirements, Market Analysis and Business Case",95
+SS259,Zara,Back-end Developer,1,65,1,Learn Ultra: Learn Foundations,70
+SS260,Ellie,Front-end Developer,0,50,1,Learn Ultra: Training and Support,80
+SS261,Gracie,Database,4,95,3,Learn Ultra: Communications and Engagement,85
+SS262,Lyra,Back-end Developer,2,90,1,CAHSS WAM Market Review,95
+SS263,Amber,Front-end Developer,8,50,5,Online Students and Staff Communities - Business Case,90
+SS264,Hannah,Database,2,65,1,Learn Ultra: Technical,75
+SS265,Clara,Back-end Developer,1,75,3,Fees processing analysis ,72
+SS266,Holly,Database,4,95,7,Bayes Meeting rooms – Bose VB1 Laptop Loom,86
+SS267,Lilly,Front-end Developer,7,65,9,Bells Meeting room hybrid – The Pleasance,81
+SS268,Noah,Back-end Developer,2,95,3,Team Room hybrid – Peffermill,70
+SS269,Oliver,Database,0,80,1,Learn Ultra: Ultra Base Navigation,95
+SS270,George,Front-end Developer,7,50,5,DAMS Migration Proof of Concept,90
+SS271,Arthur,Database,5,65,4,Digital Badges - Standards and Governance,85
+SS272,Leo,Back-end Developer,9,90,7,API Upgrade,80
+SS273,Harry,Back-end Developer,1,95,1,Annual Maria DB Upgrade,90
+SS274,Oscar,Front-end Developer,1,85,1,Blogs.ed.ac.uk Upgrade Project,95
+SS275,Archie,Database,0,75,1,"George Sq, 50, AV Upgrade, 2022",75
+SS276,Henry,Front-end Developer,3,90,4,Replace Turnitin Feedback Studio (B2) Integration in Learn to LTI 1.3,70
+SS277,Freddie,Back-end Developer,7,50,8,Culture Lab/Dig It Up,78
+SS278,Jack,Front-end Developer,8,65,7,Annual Disaster Recovery for Priority Services Test,76
+SS279,Charlie,Database,0,95,1,Online Course and OER Brochures,85
+SS280,Theo,Back-end Developer,2,75,3,IRM Onboarding - Business School Industry Activity ,80
+SS281,Alfie,Database,9,85,8,Annual Upgrade of Development Tools + Frameworks,84
+SS282,finley,Back-end Developer,7,90,5,Result Days and Clearing 2022 Helpline,89
+SS283,William,Front-end Developer,4,65,3,Understanding Learning Analytics on MS Teams,90
+SS284,Lucas,Database,1,50,1,Understanding Learning Analytics on MS Teams,95
+SS285,Roman,Back-end Developer,0,85,1,SoEngineering 2022 AV Upgrades,85
+SS286,Tommy,Front-end Developer,4,95,5,Charteris Levels 3 + 4,86
+SS287,Isaac,Database,8,90,7,Thomson's Land + GT Hall,95
+SS288,Teddy,Back-end Developer,4,60,2,Digital Strategy Implementation,92
+SS289,James,Front-end Developer,7,85,9,Perspective Upgrade,94
+SS290,Joshua,Database,2,70,1,"George Sq, 40, AV Upgrade, 2022",75
+SS291,Albie,Back-end Developer,0,50,1,Research Staff Salary Charging Process,82
+SS292,Max,Front-end Developer,7,90,5,Upgrading the Projects Website ,88
+SS293,Mohammed,Database,5,85,2,St Cecilias Meeting Rooms,94
+SS294,Mason,Back-end Developer,9,95,8,Inspace Hybrid Upgrade,75
+SS295,Rory,Front-end Developer,1,55,1,Locally Managed Windows Devices - Setting a Strategy,70
+SS296,Jude,Database,2,65,3,Data Warehouse Enhancements 2022-23,78
+SS297,Harry,Back-end Developer,3,95,5,Easter Bush PM & OBVS Room,80
+SS298,Oscar,Database,4,75,6,Student Support - New Model in EUCLID,95
+SS299,Archie,Front-end Developer,1,65,1,"Patersons Land and St Leonards Land, AV Upgrades, 2022",78
+SS300,Henry,Database,2,80,2,P&M – Data Migration – Finance Ops,88
+SS301,Freddie,Back-end Developer,5,90,9,LST - AV Procurement Framework,90
+SS302,Jack,Database,8,95,5,IDM Support Interface,93
+SS303,Charlie,Front-end Developer,7,85,6,P&M – Data Migration – Research,94
+SS304,Theo,Back-end Developer,6,80,5,P&M – Data Migration – Estates,84
+SS305,Alfie,Database,3,95,4,Desktop CoA Converter ,88
+SS306,finley,Front-end Developer,5,90,7,Data Vault V : Code Refactoring Development,96
+SS307,William,Back-end Developer,7,65,6,CPD Market Research,85
+SS308,Lucas,Database,4,75,5,"CPD Platform - Requirements, Market Analysis and Business Case",70
+SS309,Roman,Front-end Developer,9,70,7,Learn Ultra: Learn Foundations,75
+SS310,Tommy,Back-end Developer,5,90,2,Learn Ultra: Training and Support,86
+SS311,Isaac,Database,8,95,5,Learn Ultra: Communications and Engagement,88
+SS312,Teddy,Front-end Developer,2,75,3,CAHSS WAM Market Review,85
+SS313,James,Database,1,65,1,Online Students and Staff Communities - Business Case,90
+SS314,Joshua,Back-end Developer,6,90,5,Learn Ultra: Technical,95
+SS315,Albie,Database,5,65,4,Fees processing analysis ,75
+SS316,Max,Front-end Developer,4,70,3,Bayes Meeting rooms – Bose VB1 Laptop Loom,90
+SS317,Mohammed,Back-end Developer,7,75,6,Bells Meeting room hybrid – The Pleasance,95
+SS318,Mason,Database,8,80,5,Team Room hybrid – Peffermill,80
+SS319,Rory,Front-end Developer,2,85,3,New College AV Upgrades,85
+SS320,Jude,Back-end Developer,6,90,4,Fees processing analysis ,82
+SS321,Louis,Database,9,95,5,HR - Patersons Land G44 Room Upgrade,86
+SS322,Logan,Front-end Developer,4,80,5,KB - JCMB 2511 – Physics Hybrid Zoom Room,95
+SS323,finch,Back-end Developer,6,85,4,TAP22-Geography 2.01 & 2.05,94
+SS324,smith,Front-end Developer,5,95,3,Crestron MTR 2022,96
+SS325,holder,Database,7,90,6,HR Data feed for Schools,75
+SS326,Kai,Back-end Developer,4,75,3,Learn Ultra: Ultra Base Navigation,76
+SS327,Rupert,Front-end Developer,9,70,8,DAMS Migration Proof of Concept,78
+SS328,Yusuf,Database,5,90,4,Digital Badges - Standards and Governance,84
+SS329,Harvey,Back-end Developer,6,95,5,API Upgrade,88
+SS330,Ollie,Front-end Developer,4,85,2,Annual Maria DB Upgrade,90
+SS331,Jackson,Database,7,80,3,Blogs.ed.ac.uk Upgrade Project,95
+SS332,Tobias,Back-end Developer,6,95,4,"George Sq, 50, AV Upgrade, 2022",86
+SS333,Nathan,Front-end Developer,2,70,1,Replace Turnitin Feedback Studio (B2) Integration in Learn to LTI 1.3,82
+SS334,Myles,Database,3,75,4,Culture Lab/Dig It Up,86
+SS335,Mia,Back-end Developer,4,85,3,Annual Disaster Recovery for Priority Services Test,84
+SS336,Willow,Database,7,80,8,Online Course and OER Brochures,80
+SS337,Rosie,Front-end Developer,4,90,5,IRM Onboarding - Business School Industry Activity ,95
+SS338,Sophia,Back-end Developer,8,95,6,Annual Upgrade of Development Tools + Frameworks,92
+SS339,Lily,Front-end Developer,5,85,3,Result Days and Clearing 2022 Helpline,75
+SS340,Emily,Database,7,80,5,Understanding Learning Analytics on MS Teams,78
+SS341,Ella,Back-end Developer,5,90,2,Understanding Learning Analytics on MS Teams,79
+SS342,Erin,Back-end Developer,9,95,8,SoEngineering 2022 AV Upgrades,82
+SS343,Zara,Front-end Developer,8,80,5,Charteris Levels 3 + 4,85
+SS344,Ellie,Database,4,85,5,Chancellors GU2.16 Aud B,88
+SS345,Gracie,Front-end Developer,9,90,6,EDSCCU 1.02-G.14-G.15,95
+SS346,Lyra,Back-end Developer,5,75,5,Vet School G.36-G.49-2.35,90
+SS347,Amber,Front-end Developer,8,70,7,SSPS - AV Summer 2022,96
+SS348,Hannah,Database,4,65,2,Easter Bush PM & OBVS Room,78
+SS349,Clara,Back-end Developer,5,85,4,Student Support - New Model in EUCLID,80
+SS350,Holly,Database,9,95,8,"Patersons Land and St Leonards Land, AV Upgrades, 2022",82
+SS351,Lilly,Back-end Developer,4,90,3,P&M – Data Migration – Finance Ops,83
+SS352,Noah,Front-end Developer,7,80,5,LST - AV Procurement Framework,85
+SS353,Oliver,Database,6,75,5,IDM Support Interface,78
+SS354,George,Back-end Developer,5,95,6,Thomson's Land + GT Hall,75
+SS355,Arthur,Front-end Developer,1,65,1,Digital Strategy Implementation,79
+SS356,Leo,Database,3,85,2,Perspective Upgrade,80
+SS357,Harry,Back-end Developer,2,95,2,"George Sq, 40, AV Upgrade, 2022",85
+SS358,Oscar,Front-end Developer,7,80,5,Research Staff Salary Charging Process,83
+SS359,Archie,Database,8,90,6,Upgrading the Projects Website ,86
+SS360,Henry,Back-end Developer,5,85,4,St Cecilias Meeting Rooms,89
+SS361,Freddie,Database,6,95,4,Inspace Hybrid Upgrade,90
+SS362,Jack,Front-end Developer,7,90,5,Locally Managed Windows Devices - Setting a Strategy,95
+SS363,Charlie,Database,4,85,3,Data Warehouse Enhancements 2022-23,93
+SS364,Theo,Back-end Developer,5,80,3,Easter Bush PM & OBVS Room,85
+SS365,Alfie,Database,6,95,5,Student Support - New Model in EUCLID,84
+SS366,finley,Front-end Developer,7,85,5,"Patersons Land and St Leonards Land, AV Upgrades, 2022",88
+SS367,William,Back-end Developer,8,75,9,P&M – Data Migration – Finance Ops,87
+SS368,Lucas,Database,7,80,5,LST - AV Procurement Framework,90

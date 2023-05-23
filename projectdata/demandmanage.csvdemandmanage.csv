@@ -1,0 +1,251 @@
+Project Code,Project Title,Status,Current Stage,Domain,Start Date,Close Date,Budget,Employee,Priority,Date,addempcount
+TEL081,CPD Platform – Integrations,Not Started,Initiate,Back-end Developer,09-01-2023,28-07-2023,"$2,031.81 ",8,Duration,_,1
+EST142,Archibus Upgrade Project,Not Started,Initiate,Front-end Developer,04-09-2022,05-10-2022,"$2,260.63 ",7,Cost,_,2
+LUC065,DSpace 7 Upgrades,Not Started,Initiate,Database,22-08-2022,23-09-2022,"$2,271.94 ",5,Cost,_,4
+RSS410,Interfaces to digital services,In Progress,Plan,Front-end Developer,15-08-2022,15-09-2022,"$2,411.87 ",15,Cost,_,3
+RSS409,Research Services Architecture Security Review,Not Started,Initiate,Back-end Developer,15-08-2022,31-10-2022,"$2,685.95 ",6,Duration,_,1
+RSS501,DataStore Fibre Channel Replacement,In Progress,Build,Front-end Developer,09-08-2022,30-11-2022,"$2,430.87 ",15,Cost,_,5
+ENT401,Enterprise Infrastructure Migrations,Not Started,Initiate,Database,09-08-2022,28-04-2023,"$2,099.93 ",10,Cost,_,6
+MVM535,Marketing Performance and Analytics Framework,In Progress,Initiate,Back-end Developer,05-08-2022,02-11-2022,"$2,187.92 ",15,Duration,_,1
+DLIB019,Vernon Procurement Review,Not Started,Initiate,Front-end Developer,04-08-2022,28-02-2023,"$2,259.94 ",9,Cost,_,2
+EST136,Contact Database for Estates Help Desk,Not Started,Initiate,Database,04-08-2022,30-11-2022,"$2,237.55 ",14,Cost,_,5
+RSS411,Interoperation with EIDF architecture and service design,In Progress,Plan,Back-end Developer,01-08-2022,29-07-2022,"$2,273.12 ",15,Duration,_,6
+RSS413,Improving access mechanisms to compute and data,Suspended,Plan,Front-end Developer,01-08-2022,03-12-2022,"$2,402.65 ",13,Cost,_,1
+TTU025,Timetabling Upgrade to V4,In Progress,Initiate,Database,01-08-2022,31-01-2023,"$2,425.98 ",15,Cost,_,2
+AV2960,General Microsoft Teams Room,Suspended,Initiate,Back-end Developer,01-08-2022,16-12-2022,"$2,568.86 ",12,Duration,_,4
+AV2962,APUC - AV Procurement Framework,In Progress,Analyse,Database,01-08-2022,16-12-2022,"$2,527.11 ",8,Cost,_,3
+MVM534,Research Staff Salary Charging Process,In Progress,Initiate,Front-end Developer,28-07-2022,05-09-2022,"$2,619.23 ",7,Cost,_,1
+ISG021,Upgrading the Projects Website ,In Progress,Plan,Back-end Developer,25-07-2022,31-10-2023,"$2,835.03 ",5,Duration,_,5
+AV2981,St Cecilias Meeting Rooms,Suspended,Initiate,Database,14-07-2022,09-08-2022,"$2,793.56 ",15,Cost,_,6
+AV2982,Inspace Hybrid Upgrade,In Progress,Procure,Back-end Developer,14-07-2022,16-09-2022,"$2,727.76 ",6,Cost,_,1
+DST402,Locally Managed Windows Devices - Setting a Strategy,Withdrawn,Initiate,Front-end Developer,13-07-2022,30-09-2022,"$2,859.57 ",15,Duration,_,2
+ISG025,Data Warehouse Enhancements 2022-23,In Progress,Plan,Database,11-07-2022,31-07-2023,"$2,864.00 ",10,Cost,_,5
+INF163,CentOS 7 EOL,In Progress,Plan,Back-end Developer,04-07-2022,06-02-2023,"$2,976.42 ",15,Cost,_,6
+COR007f ,HDS Payroll Document PDF Generator,In Progress,Plan,Front-end Developer,04-07-2022,12-10-2022,"$2,800.03 ",9,Duration,_,1
+AV2983,Edinburgh College of Art Project (ECAP) - Stage 2,In Progress,Design,Back-end Developer,01-07-2022,13-09-2024,"$2,737.05 ",14,Cost,_,2
+AV2984,Teviot Row House Project (TRHP) - Stage 2,In Progress,Design,Database,01-07-2022,13-09-2024,"$2,629.96 ",15,Cost,_,4
+SCE021,Email Migration for the School of Physics and Astronomy (SoPA),In Progress,Plan,Front-end Developer,30-06-2022,30-09-2022,"$2,208.00 ",13,Duration,_,3
+DLIB010,Digital Library Services Resourcing Model,In Progress,Plan,Back-end Developer,27-06-2022,30-12-2022,"$2,437.18 ",15,Cost,_,1
+RSS412,Research Services Network Security Review,Closed,Close,Database,22-06-2022,29-07-2022,"$2,586.18 ",12,Cost,_,5
+EST141,Enhanced Space Management for EFI,In Progress,Plan,Front-end Developer,20-06-2022,27-01-2023,"$2,556.18 ",8,Duration,_,6
+AV2978,CRC Small Upgrades 2022,Suspended,Procure,Back-end Developer,10-06-2022,29-07-2022,"$2,538.10 ",7,Cost,_,1
+PMO008,Professional Development (Learning and Development),In Progress,Execute,Database,10-06-2022,11-08-2022,"$2,658.29 ",5,Cost,_,2
+PMO007,Unified Resourcing Process,In Progress,Execute,Back-end Developer,10-06-2022,11-08-2022,"$2,671.50 ",15,Duration,_,5
+PMO010,Information Signposting ,Closed,Close,Front-end Developer,10-06-2022,03-08-2022,"$2,715.00 ",6,Cost,_,6
+PMO009,Process Mapping Framework,Closed,Close,Database,08-06-2022,03-08-2022,"$2,710.35 ",15,Duration,_,1
+MVM533,MVM Information Security Compliance,Not Started,Initiate,Back-end Developer,06-06-2022,05-10-2022,"$2,657.16 ",10,Cost,_,2
+HSS038,CAHSS Digital Skills & Capability Review,Withdrawn,Close,Front-end Developer,06-06-2022,28-04-2023,"$2,561.12 ",15,Duration,_,4
+P0353,HDS Recruitment,Not Started,Initiate,Back-end Developer,01-06-2022,28-08-2022,"$2,420.30 ",9,Cost,_,3
+DLIB017,Collections@Ed Website Implementation,Not Started,Initiate,Database,01-06-2022,31-08-2023,"$2,312.22 ",14,Cost,_,1
+AV2977,Biomedical Sciences Hybrid,In Progress,Procure,Back-end Developer,01-06-2022,16-09-2022,"$2,546.61 ",15,Duration,_,5
+MVM532,University card access control for laboratory equipment,Not Started,Initiate,Front-end Developer,01-06-2022,22-09-2022,"$2,554.14 ",13,Cost,_,6
+AV2979,BMTO East West Teaching Labs,Suspended,Analyse,Database,01-06-2022,16-09-2022,"$2,525.76 ",15,Duration,_,1
+AV2976,ML-Careers Meeting Rooms,In Progress,Analyse,Back-end Developer,01-06-2022,29-07-2022,"$2,467.95 ",12,Duration,_,2
+P0352,HDS Recruitment,Not Started,Initiate,Front-end Developer,01-06-2022,15-07-2022,"$2,466.00 ",4,Cost,_,5
+MVM150,BMS Honours Project portal enhancements,Closed,Close,Database,16-05-2022,02-08-2022,"$2,569.98 ",15,Duration,_,6
+MVM151,Rotations Feedback,In Progress,Execute,Back-end Developer,16-05-2022,29-09-2023,"$2,580.81 ",15,Cost,_,1
+AV2971,St Leonards 2.35,Closed,Close,Front-end Developer,12-05-2022,16-09-2022,"$2,574.17 ",15,Duration,_,2
+MVM149,Year 4 Outpatient Booking System,Closed,Close,Database,09-05-2022,02-08-2022,"$2,588.00 ",15,Duration,_,4
+ENT406,Mailing list service upgrade,In Progress,Plan,Back-end Developer,09-05-2022,06-12-2022,"$2,526.00 ",8,Cost,_,3
+HSS040,ECA MiniPortfolio Procurement and Implementation,In Progress,Plan,Database,05-05-2022,31-03-2023,"$2,527.81 ",7,Duration,_,1
+IDR402,Microsoft Software Licensing Agreement Renewal ,In Progress,Plan,Front-end Developer,02-05-2022,11-11-2022,"$2,561.95 ",5,Duration,_,5
+AV2966,Easter Bush 2022 Upgrades,In Progress,Analyse,Back-end Developer,02-05-2022,16-09-2022,"$2,381.29 ",15,Duration,_,6
+AV2967,Chancellors GU1.08 Aud A,In Progress,Analyse,Database,02-05-2022,16-09-2022,"$2,365.07 ",6,Cost,_,1
+AV2968,Chancellors GU2.16 Aud B,In Progress,Analyse,Back-end Developer,02-05-2022,16-09-2022,"$2,370.17 ",15,Duration,_,2
+AV2969,EDSCCU 1.02-G.14-G.15,In Progress,Analyse,Front-end Developer,02-05-2022,16-09-2022,"$2,344.93 ",10,Cost,_,5
+AV2970,Vet School G.36-G.49-2.35,In Progress,Initiate,Database,02-05-2022,16-09-2022,"$2,249.12 ",15,Cost,_,6
+AV2974,SSPS - AV Summer 2022,Suspended,Analyse,Back-end Developer,02-05-2022,16-09-2022,"$2,030.85 ",9,Duration,_,1
+AV2975,Easter Bush PM & OBVS Room,In Progress,Analyse,Front-end Developer,02-05-2022,16-09-2022,"$1,908.61 ",14,Duration,_,2
+SAC092,Student Support - New Model in EUCLID,In Progress,Deliver,Back-end Developer,02-05-2022,24-10-2022,"$2,045.09 ",15,Duration,_,4
+AV2955,"Patersons Land and St Leonards Land, AV Upgrades, 2022",Suspended,Initiate,Database,29-04-2022,16-09-2022,"$2,354.19 ",13,Cost,_,3
+COR004c,P&M – Data Migration – Finance Ops,In Progress,Initiate,Front-end Developer,25-04-2022,25-06-2022,"$2,314.02 ",15,Duration,_,1
+AV2961,LST - AV Procurement Framework,In Progress,Execute,Back-end Developer,25-04-2022,15-12-2022,"$2,625.23 ",12,Cost,_,5
+COM070,IDM Support Interface,In Progress,Plan,Database,25-04-2022,06-01-2023,"$2,719.52 ",8,Duration,_,6
+COR004a,P&M – Data Migration – Research,In Progress,Initiate,Front-end Developer,25-04-2022,15-06-2022,"$2,789.80 ",7,Duration,_,1
+COR004b,P&M – Data Migration – Estates,In Progress,Accept,Back-end Developer,25-04-2022,23-07-2022,"$2,789.37 ",5,Cost,_,2
+COR007D,Desktop CoA Converter ,In Progress,Execute,Database,20-04-2022,08-06-2022,"$2,762.00 ",15,Duration,_,5
+RSS408,Data Vault V : Code Refactoring Development,In Progress,Execute,Back-end Developer,12-04-2022,29-07-2022,"$2,576.01 ",6,Duration,_,6
+OCP005,CPD Market Research,In Progress,Execute,Front-end Developer,11-04-2022,19-08-2022,"$2,429.99 ",15,Cost,_,1
+OCP004,"CPD Platform - Requirements, Market Analysis and Business Case",In Progress,Execute,Database,07-04-2022,22-12-2022,"$2,541.06 ",10,Cost,_,2
+VLE003,Learn Ultra: Learn Foundations,In Progress,Initiate,Back-end Developer,04-04-2022,12-07-2022,"$2,739.99 ",15,Duration,_,4
+VLE004,Learn Ultra: Training and Support,Not Started,Initiate,Front-end Developer,04-04-2022,15-06-2022,"$2,707.68 ",9,Duration,_,3
+VLE005,Learn Ultra: Communications and Engagement,In Progress,Initiate,Back-end Developer,04-04-2022,12-06-2023,"$2,729.02 ",14,Cost,_,1
+HSS039,CAHSS WAM Market Review,In Progress,Execute,Back-end Developer,04-04-2022,28-10-2022,"$2,761.41 ",15,Duration,_,5
+ISG023,Online Students and Staff Communities - Business Case,Closed,Close,Database,04-04-2022,29-07-2022,"$2,750.00 ",13,Cost,_,6
+VLE002,Learn Ultra: Technical,In Progress,Execute,Front-end Developer,04-04-2022,31-10-2022,"$2,698.53 ",15,Duration,_,1
+SAC091,Fees processing analysis ,In Progress,Analyse,Back-end Developer,01-04-2022,15-09-2022,"$2,756.93 ",12,Duration,_,2
+AV2959,Bayes Meeting rooms – Bose VB1 Laptop Loom,Closed,Close,Database,01-04-2022,29-04-2022,"$2,863.60 ",8,Cost,_,5
+AV2963,Bells Meeting room hybrid – The Pleasance,In Progress,Analyse,Back-end Developer,01-04-2022,29-07-2022,"$3,192.37 ",7,Duration,_,6
+AV2964,Team Room hybrid – Peffermill,Suspended,Analyse,Front-end Developer,01-04-2022,29-07-2022,"$3,241.02 ",5,Cost,_,1
+AV2965,New College AV Upgrades,In Progress,Analyse,Database,01-04-2022,29-07-2022,"$3,377.63 ",15,Duration,_,2
+SAC091,Fees processing analysis ,In Progress,Analyse,Back-end Developer,01-04-2022,15-09-2022,"$3,386.00 ",6,Cost,_,4
+AV2956,HR - Patersons Land G44 Room Upgrade,Closed,Close,Front-end Developer,01-04-2022,29-07-2022,"$3,286.05 ",15,Duration,_,3
+AV2957,KB - JCMB 2511 – Physics Hybrid Zoom Room,In Progress,Analyse,Back-end Developer,01-04-2022,29-07-2022,"$3,444.00 ",10,Cost,_,1
+AV2953,TAP22-Geography 2.01 & 2.05,In Progress,Procure,Database,31-03-2022,30-09-2022,"$3,547.78 ",15,Duration,_,5
+AV2954,Crestron MTR 2022,Suspended,Build,Back-end Developer,31-03-2022,29-07-2022,"$3,886.59 ",9,Cost,_,6
+COR005c,HR Data feed for Schools,In Progress,Execute,Front-end Developer,30-03-2022,25-08-2022,"$4,025.00 ",14,Duration,_,1
+VLE001,Learn Ultra: Ultra Base Navigation,In Progress,Execute,Database,28-03-2022,28-07-2022,"$4,247.30 ",15,Cost,_,2
+DLIB020,DAMS Migration Proof of Concept,In Progress,Execute,Back-end Developer,24-03-2022,16-09-2022,"$4,002.93 ",13,Cost,_,5
+OCP003,Digital Badges - Standards and Governance,In Progress,Execute,Front-end Developer,18-03-2022,28-10-2022,"$4,308.63 ",15,Duration,_,6
+COM068,API Upgrade,Withdrawn,Plan,Database,14-03-2022,29-07-2022,"$4,350.00 ",12,Cost,_,1
+INF165,Annual Maria DB Upgrade,In Progress,Execute,Back-end Developer,14-03-2022,28-09-2022,"$4,233.01 ",8,Cost,_,2
+TEL086,Blogs.ed.ac.uk Upgrade Project,Not Started,Plan,Front-end Developer,02-03-2022,24-06-2022,"$4,041.02 ",7,Duration,_,4
+AV2948,"George Sq, 50, AV Upgrade, 2022",Withdrawn,Analyse,Database,25-02-2022,16-09-2022,"$4,040.11 ",5,Cost,_,3
+TEL085,Replace Turnitin Feedback Studio (B2) Integration in Learn to LTI 1.3,In Progress,Deliver,Back-end Developer,25-02-2022,25-05-2022,"$4,010.01 ",15,Cost,_,1
+LUC064,Culture Lab/Dig It Up,In Progress,Execute,Database,14-02-2022,30-06-2022,"$3,914.01 ",6,Duration,_,5
+INF162,Annual Disaster Recovery for Priority Services Test,Withdrawn,Close,Front-end Developer,11-02-2022,28-07-2022,"$4,209.08 ",15,Cost,_,6
+OCP002,Online Course and OER Brochures,In Progress,Execute,Back-end Developer,08-02-2022,17-06-2022,"$4,234.46 ",10,Cost,_,1
+CSG018,IRM Onboarding - Business School Industry Activity ,Not Started,Plan,Database,04-02-2022,26-07-2022,"$4,418.04 ",15,Duration,_,2
+INF164,Annual Upgrade of Development Tools + Frameworks,In Progress,Execute,Back-end Developer,04-02-2022,28-07-2022,"$4,297.43 ",9,Duration,_,5
+USG020,Result Days and Clearing 2022 Helpline,In Progress,Execute,Front-end Developer,03-02-2022,30-09-2022,"$4,345.01 ",14,Cost,_,6
+TEL084,Understanding Learning Analytics on MS Teams,Closed,Close,Database,01-02-2022,10-06-2022,"$4,297.20 ",15,Cost,_,1
+TEL084,Understanding Learning Analytics on MS Teams,Closed,Close,Back-end Developer,01-02-2022,10-06-2022,"$4,588.20 ",13,Duration,_,2
+AV2945,SoEngineering 2022 AV Upgrades,Closed,Close,Front-end Developer,01-02-2022,29-07-2022,"$4,573.74 ",15,Cost,_,4
+AV2946,Charteris Levels 3 + 4,In Progress,Procure,Database,01-02-2022,19-08-2022,"$4,701.50 ",12,Cost,_,3
+AV2947,Thomson's Land + GT Hall,Withdrawn,Analyse,Front-end Developer,01-02-2022,30-09-2022,"$4,839.88 ",8,Duration,_,1
+DTI058,Digital Strategy Implementation,Not Started,Initiate,Back-end Developer,01-02-2022,29-07-2022,"$4,650.00 ",7,Cost,_,5
+EST135,Perspective Upgrade,In Progress,Execute,Database,01-02-2022,20-09-2022,"$4,450.60 ",5,Duration,_,6
+AV2949,"George Sq, 40, AV Upgrade, 2022",Withdrawn,Analyse,Back-end Developer,01-02-2022,16-09-2022,"$4,358.24 ",15,Cost,_,1
+AV2950,"George Sq, 21, AV Upgrade, 2022",Withdrawn,Analyse,Front-end Developer,01-02-2022,16-09-2022,"$4,367.40 ",6,Duration,_,2
+AV2951,Teaching Desk & Projector Upgrades 2022,In Progress,Build,Database,01-02-2022,29-09-2022,"$4,673.60 ",15,Cost,_,5
+EST137,Archibus Upgrade Analysis & Planning,In Progress,Execute,Back-end Developer,01-02-2022,31-08-2022,"$4,652.69 ",10,Duration,_,6
+SMI031,UniDesk for Dundee,Withdrawn,Initiate,Front-end Developer,31-01-2022,22-04-2022,"$4,435.09 ",15,Cost,_,1
+P0350,Diveplane GEMINAI,Not Started,Initiate,Back-end Developer,27-01-2022,22-04-2022,"$4,292.00 ",9,Duration,_,2
+AV2944,CMB Meeting Room 2 and 4 Upgrade,Closed,Close,Database,24-01-2022,31-05-2022,"$4,185.54 ",14,Cost,_,4
+ISG022,IT and Library Business Service Readiness for Start of Term 2022/23 ,In Progress,Execute,Front-end Developer,21-01-2022,01-12-2022,"$4,235.59 ",15,Duration,_,3
+DLIB021,LUC Website Accessibility Testing,In Progress,Execute,Back-end Developer,20-01-2022,29-07-2022,"$4,251.07 ",13,Cost,_,1
+FIN141,ERO RCGI Document Management System,In Progress,Plan,Database,17-01-2022,29-07-2022,"$3,819.51 ",15,Duration,_,5
+HAS012,eOPAS Upgrade ,Closed,Close,Front-end Developer,17-01-2022,29-07-2022,"$3,520.00 ",12,Cost,_,6
+COM065,Annual Service Audits,Closed,Close,Back-end Developer,14-01-2022,27-07-2022,"$3,856.13 ",8,Duration,_,1
+TEL083,Moodle Annual Upgrade,Closed,Close,Database,13-01-2022,05-08-2022,"$3,616.32 ",7,Cost,_,2
+COM067,Wiki: Annual Upgrade,In Progress,Build,Back-end Developer,13-01-2022,12-08-2022,"$3,716.48 ",5,Duration,_,5
+COM066,Bi-Annual Grouper Upgrade,In Progress,Plan,Front-end Developer,13-01-2022,29-07-2022,"$4,033.20 ",15,Cost,_,6
+TEL082,QMP Upgrade,In Progress,Execute,Database,13-01-2022,05-08-2022,"$3,998.00 ",6,Duration,_,1
+EST140,Estates Phase 2 P&M Launch,Closed,Close,Back-end Developer,13-01-2022,29-04-2022,"$3,990.70 ",15,Cost,_,2
+INF160,Oracle Upgrades,In Progress,Execute,Front-end Developer,13-01-2022,31-08-2022,"$3,749.45 ",10,Duration,_,4
+CSG020,IRM Onboarding for Unicef Collaborative,Closed,Close,Back-end Developer,13-01-2022,10-06-2022,"$3,531.57 ",15,Cost,_,3
+RIS023,Reporting Servers Replacement,Suspended,Plan,Back-end Developer,10-01-2022,15-04-2022,"$3,750.01 ",9,Duration,_,1
+RIS019,RIS Systems Procurement,Withdrawn,Initiate,Database,10-01-2022,16-05-2022,"$3,707.48 ",14,Cost,_,5
+LUC059,The Nagler Bequest: Transforming Conservation of the University of Edinburgh’s Cultural Heritage Collections,Not Started,Initiate,Front-end Developer,10-01-2022,31-12-2026,"$3,923.99 ",15,Duration,_,6
+OCP001,Digital Badges Procurement,In Progress,Execute,Back-end Developer,10-01-2022,30-09-2022,"$3,927.33 ",13,Cost,_,1
+WPS012,Annual Portal Services Upgrade,In Progress,Plan,Database,03-12-2021,04-11-2022,"$4,073.78 ",15,Duration,_,2
+EST132,Estates IQ Vision/Trend963 Upgrade,In Progress,Execute,Back-end Developer,01-12-2021,28-07-2023,"$4,139.03 ",12,Duration,_,5
+ENT405,Updates and Improvements to the AD and Exchange IDM Provisioners,In Progress,Execute,Front-end Developer,29-11-2021,10-10-2022,"$4,187.37 ",8,Duration,_,6
+EST139,Estates IT Systems Audit,Suspended,Plan,Database,26-11-2021,30-09-2022,"$4,330.25 ",7,Duration,_,1
+INF161,Annual PEN Test Anticipating Vulnerabilities,Closed,Close,Back-end Developer,25-11-2021,29-07-2022,"$4,270.01 ",5,Cost,_,2
+EST138,Deister (Proxsafe) Key Management Upgrade,Closed,Close,Front-end Developer,18-11-2021,21-07-2022,"$4,380.46 ",15,Cost,_,4
+LTW012,Staff Online Training Migration to People & Money Project Overview ,In Progress,Execute,Back-end Developer,10-11-2021,31-10-2022,"$4,292.80 ",6,Duration,_,3
+LTW011,Digital Skills Programme Migration to People & Money,In Progress,Execute,Database,10-11-2021,31-10-2022,"$4,212.04 ",15,Cost,_,1
+SAC090,EFI programmes in EUCLID,In Progress,Deliver,Back-end Developer,05-11-2021,30-09-2022,"$4,321.98 ",10,Duration,_,5
+EDIS0055,STEM,Closed,Close,Front-end Developer,01-11-2021,31-03-2022,"$4,382.01 ",15,Duration,_,6
+COM064,Annual Business Objects Upgrade,In Progress,Deliver,Database,01-11-2021,15-07-2022,"$4,346.98 ",9,Duration,_,1
+MVM147,"Upgrading of student computer labs, teaching and meeting room PCs 2021/22",In Progress,Execute,Front-end Developer,01-11-2021,29-07-2022,"$4,569.99 ",14,Cost,_,2
+MVM148,Upgrading of teaching spaces 2021/22 ,In Progress,Initiate,Back-end Developer,01-11-2021,29-07-2022,"$4,645.25 ",15,Duration,_,5
+LUC035,Speaking Out,Not Started,Initiate,Database,01-11-2021,01-11-2022,"$4,802.02 ",13,Cost,_,6
+SMI028,UniDesk Data Archive,Withdrawn,Initiate,Back-end Developer,01-11-2021,28-07-2023,"$4,839.01 ",15,Duration,_,1
+TEL079,Blackboard Collaborate - MyEd Channel Improvements,In Progress,Execute,Front-end Developer,01-11-2021,06-09-2022,"$5,297.06 ",12,Duration,_,2
+TEL080,Upgrade to Learn Ultra - Applications Division Integration Support.,In Progress,Execute,Database,28-10-2021,31-08-2024,"$5,714.95 ",8,Cost,_,4
+DLIB016,Library Databases and Licenced Content Improvements,In Progress,Execute,Back-end Developer,28-10-2021,15-09-2022,"$5,709.83 ",7,Duration,_,3
+VLE000,Learn Ultra,In Progress,Execute,Front-end Developer,28-10-2021,31-08-2024,"$5,534.16 ",5,Cost,_,1
+RSS403,OMERO Service Definition,Closed,Close,Back-end Developer,26-10-2021,29-07-2022,"$5,699.97 ",15,Duration,_,5
+AV2943,EFI-Collaborative Teaching Space 2022,In Progress,Build,Database,25-10-2021,09-09-2022,"$5,589.51 ",6,Duration,_,6
+RSS404,Large Scale Data Transport ,In Progress,Integrate,Back-end Developer,22-10-2021,25-11-2022,"$5,342.02 ",15,Cost,_,1
+RSS405,Tape Library Replacement ,Closed,Close,Front-end Developer,22-10-2021,27-05-2022,"$5,650.22 ",10,Duration,_,2
+RSS401,GPU refresh ,In Progress,Procure,Database,21-10-2021,25-11-2022,"$5,964.24 ",15,Duration,_,5
+RSS402,Infrastructure Refresh 21/22 ,In Progress,Build,Back-end Developer,21-10-2021,14-12-2022,"$6,165.91 ",9,Cost,_,6
+RIS022,Pure Upgrades v5.22 to v5.24,In Progress,Execute,Front-end Developer,21-10-2021,14-10-2022,"$6,018.87 ",14,Duration,_,1
+FIN140,PCI DSS Compliance IT Work,In Progress,Execute,Database,15-10-2021,29-07-2022,"$5,791.99 ",15,Cost,_,2
+SAC089,SITS Double software upgrade,Closed,Close,Back-end Developer,12-10-2021,10-06-2022,"$5,648.52 ",13,Duration,_,4
+AV2942,SFC - Murchison House - Liberton Room,Closed,Close,Front-end Developer,08-10-2021,31-12-2021,"$5,483.92 ",15,Duration,_,3
+MOOC043,Animal Welfare in the Clinic,In Progress,Plan,Database,06-10-2021,22-02-2022,"$5,951.26 ",12,Cost,_,1
+MOOC044,How to create media for online courses,In Progress,Close,Back-end Developer,06-10-2021,30-09-2022,"$5,756.38 ",8,Cost,_,5
+MOOC045,Self Care and Wellbeing: A Practical Guide for Health and Social Care,Closed,Close,Database,06-10-2021,22-03-2022,"$5,715.01 ",7,Cost,_,6
+MOOC046,Climate Solutions – International MOOCs,In Progress,Plan,Front-end Developer,06-10-2021,16-01-2022,"$5,986.27 ",5,Duration,_,1
+AV2929,SBS Lecture Recording,Suspended,Initiate,Back-end Developer,01-10-2021,31-12-2021,"$6,087.02 ",15,Duration,_,2
+AV2937,Argyle House Hybrid Meeting Room Test Space,Withdrawn,Initiate,Database,01-10-2021,31-12-2021,"$6,365.68 ",6,Cost,_,5
+AV2938,Education Dance Studio Tweak,In Progress,Accept,Back-end Developer,01-10-2021,31-12-2021,"$6,569.35 ",15,Duration,_,6
+SAC085,GDPR 2 for student systems ,Suspended,Analyse,Front-end Developer,01-10-2021,30-06-2022,"$7,077.99 ",10,Cost,_,1
+EDIC0017,Recipes for Resilience,Closed,Close,Database,01-10-2021,31-03-2022,"$7,373.00 ",15,Duration,_,2
+RIS021,Worktribe Upgrades v2021.7 and v2022.1,Closed,Close,Back-end Developer,17-09-2021,05-05-2022,"$7,334.78 ",9,Cost,_,4
+COM063,Serengeti Bi-Annual Upgrade,Closed,Close,Front-end Developer,10-09-2021,15-07-2022,"$7,535.06 ",14,Cost,_,3
+DLIB018,Digital Library Storage Capacity Review,Closed,Close,Database,10-09-2021,11-03-2022,"$7,152.81 ",15,Duration,_,1
+MVM507,"Risk, Business Continuity and Disaster Recovery",Not Started,Initiate,Front-end Developer,06-09-2021,16-12-2021,"$7,006.04 ",13,Duration,_,5
+TTU023,Timetabling Annual Roll-forward to 2022/23,In Progress,Plan,Back-end Developer,03-09-2021,28-10-2022,"$7,475.00 ",15,Cost,_,6
+TEL075,Polling Service Replacement ,In Progress,Execute,Database,01-09-2021,16-12-2022,"$7,171.12 ",12,Duration,_,1
+ENT402,Backup service improvements,In Progress,Execute,Back-end Developer,31-08-2021,29-03-2024,"$6,915.00 ",8,Cost,_,2
+IDR304,Staff RDP Mitigation,Withdrawn,Initiate,Front-end Developer,31-08-2021,31-08-2021,"$6,122.10 ",7,Duration,_,5
+WPS011,Support EdWeb move to the Cloud,Closed,Close,Database,30-08-2021,06-05-2022,"$7,173.33 ",5,Cost,_,6
+RSS406,Cloud Infrastructure,Closed,Close,Back-end Developer,30-08-2021,06-12-2021,"$7,467.00 ",15,Duration,_,1
+RSS407,SIEM monitoring ,Closed,Close,Front-end Developer,30-08-2021,06-12-2021,"$7,888.01 ",6,Duration,_,2
+FIN139,HR and Payroll Annual Maintenance 21/22,Closed,Close,Back-end Developer,28-08-2021,23-03-2022,"$7,660.01 ",15,Duration,_,4
+SAC088,Migrate SITS database (STAR) off physical server to VM,Closed,Close,Database,25-08-2021,24-06-2022,"$7,799.95 ",10,Cost,_,3
+TEL077,TEL Services Data Retention and GDPR Compliance,In Progress,Execute,Database,23-08-2021,28-07-2023,"$8,178.00 ",15,Duration,_,1
+TEL078,Datafeed Redevelopment,In Progress,Execute,Front-end Developer,23-08-2021,14-04-2023,"$8,200.00 ",9,Duration,_,5
+DTP023,Deployment of Windows 10 To Locally Managed Devices,Withdrawn,Initiate,Back-end Developer,23-08-2021,23-08-2021,"$8,660.17 ",14,Duration,_,6
+MVM531,CMVM Study Spaces - 2021,Closed,Close,Database,19-08-2021,12-05-2022,"$9,383.00 ",15,Cost,_,1
+DST401,Large Scale Virtual Synchronous Teaching,In Progress,Plan,Back-end Developer,18-08-2021,31-05-2023,"$9,604.09 ",13,Cost,_,2
+DTFW02,Hybrid Meetings Project,Closed,Close,Front-end Developer,10-08-2021,17-12-2021,"$9,938.94 ",15,Duration,_,5
+STU267,CareerHub Migration to the Cloud,In Progress,Execute,Database,09-08-2021,24-06-2022,"$10,827.46 ",12,Duration,_,6
+COM062,Qlik Sense and QlikView Annual Upgrade,Closed,Close,Back-end Developer,06-08-2021,11-02-2022,"$9,469.28 ",8,Duration,_,1
+COM061,Annual JIRA Upgrade,Closed,Close,Front-end Developer,06-08-2021,27-05-2022,"$10,620.99 ",7,Cost,_,2
+ENT403,Improved Email Security,In Progress,Execute,Back-end Developer,02-08-2021,31-10-2022,"$10,866.00 ",5,Duration,_,4
+ENT404,Security improvements ,Withdrawn,Initiate,Database,02-08-2021,31-10-2021,"$11,695.37 ",15,Duration,_,3
+EST130,Estates CAFM Implementation,Withdrawn,Initiate,Front-end Developer,02-08-2021,11-10-2021,"$11,300.00 ",6,Duration,_,1
+BAY107,New schools outreach offerings to fill possible gaps based on existing activity in 21/22 ,Closed,Close,Back-end Developer,01-08-2021,31-07-2021,"$11,700.01 ",15,Cost,_,5
+DST202,Expansion of AppsED,Withdrawn,Close,Database,19-07-2021,18-08-2021,"$12,819.83 ",10,Duration,_,6
+USG019,Development & Alumni CRM deployment,In Progress,Plan,Front-end Developer,05-07-2021,21-11-2022,"$16,260.01 ",15,Cost,_,1
+LUC062,Lyell Engagement Project,In Progress,Initiate,Back-end Developer,01-07-2021,31-05-2024,"$15,020.00 ",9,Duration,_,2
+P0351,Library Impact Dashboard,In Progress,Design,Database,01-07-2021,04-10-2022,"$15,068.00 ",14,Duration,_,5
+AV2940,Lister - Hybridising Teaching Spaces,Closed,Close,Back-end Developer,01-07-2021,29-10-2021,"$15,525.00 ",15,Duration,_,6
+AV2941,Physics and Biological Sciences Room Swap,Closed,Close,Front-end Developer,01-07-2021,30-09-2021,"$16,649.99 ",13,Cost,_,1
+TEL076,Support and Guidance for Teams for Teaching,Closed,Close,Database,29-06-2021,30-06-2022,"$17,394.99 ",15,Duration,_,2
+LTW010,Hybrid Classroom 21/22,Closed,Close,Back-end Developer,23-06-2021,30-06-2022,"$16,986.36 ",12,Duration,_,4
+PMO005,User Acceptance Testing (UAT) Guidance,Closed,Close,Front-end Developer,23-06-2021,20-08-2021,"$16,710.97 ",8,Duration,_,3
+CSG019,IRM Onboarding for Social Responsibility and Sustainability,Closed,Execute,Back-end Developer,22-06-2021,21-01-2022,"$17,544.60 ",7,Cost,_,1
+PMO004,WIS Review,Closed,Close,Back-end Developer,21-06-2021,20-08-2021,"$18,969.99 ",5,Cost,_,5
+DLIB009,Digital Skills Capacity for Library Staff,Suspended,Plan,Database,18-06-2021,30-06-2022,"$19,405.01 ",15,Duration,_,6
+COM058,Qlik-Sense and Qlikview Annual Upgrade,Withdrawn,Initiate,Front-end Developer,01-06-2021,20-09-2021,"$18,684.05 ",6,Duration,_,1
+AV2936,Easter Bush Dissection Observation Room,Closed,Close,Back-end Developer,01-06-2021,30-09-2021,"$18,429.33 ",15,Duration,_,2
+AV2939,CMVM - AV Upgrades 2020-21,Closed,Close,Database,01-06-2021,31-12-2021,"$16,300.00 ",10,Cost,_,5
+EST134,Building Energy Management System (BEMS) Server Upgrade,Closed,Close,Back-end Developer,26-05-2021,31-08-2021,"$15,841.68 ",15,Duration,_,6
+USD027,Helpline Integration,In Progress,Initiate,Front-end Developer,24-05-2021,26-08-2021,"$12,972.00 ",9,Duration,_,1
+DTSU001,Sustainable Printing - Fleet Consolidation,In Progress,Initiate,Database,24-05-2021,25-07-2021,"$15,307.00 ",14,Duration,_,2
+MVM530,Cataloguing CMVM IS Services ,Closed,Close,Back-end Developer,17-05-2021,12-05-2022,"$13,986.46 ",15,Cost,_,4
+MVM529,Enabling CMVM Rooms for Hybrid Meetings ,In Progress,Deliver,Front-end Developer,06-05-2021,30-09-2022,"$14,268.75 ",13,Duration,_,3
+WPS010,Personalisation within Portal,In Progress,Execute,Back-end Developer,04-05-2021,19-08-2021,"$16,099.00 ",15,Duration,_,1
+AV2934,University Health Service AV,Closed,Close,Database,03-05-2021,30-07-2021,"$14,754.62 ",12,Duration,_,5
+EDIP0252,Bono Greenhouse Gas Removal,Withdrawn,Close,Back-end Developer,03-05-2021,30-04-2021,"$13,985.89 ",8,Cost,_,6
+AV2930,Hybrid Level 4 Test Spaces,Withdrawn,Initiate,Front-end Developer,03-05-2021,30-07-2021,"$14,700.03 ",7,Duration,_,1
+AV2925,CSE - College Office Hybrid Meeting Rooms,Withdrawn,Analyse,Database,03-05-2021,30-07-2021,"$12,577.57 ",5,Duration,_,2
+AV2928,Ashworth Labs 85/88 - remove/reinstate,Closed,Close,Front-end Developer,01-05-2021,29-10-2021,"$14,010.00 ",15,Duration,_,5
+AV2933,SoEngineering Room Upgrades 2021,Closed,Close,Back-end Developer,01-05-2021,31-12-2021,"$13,076.52 ",6,Cost,_,6
+AV2935,SoMaths Room Upgrades 2021,Closed,Close,Database,01-05-2021,30-09-2021,"$13,709.71 ",15,Duration,_,1
+AV2931,Hybrid Level 1 - Additional 1m SD Spaces,Withdrawn,Build,Back-end Developer,01-05-2021,30-09-2021,"$15,126.02 ",10,Duration,_,2
+AV2932,Education - Hybridising Holyrood 2021,Suspended,Build,Front-end Developer,01-05-2021,30-09-2021,"$14,522.26 ",15,Duration,_,4
+SCE019,Requirements for Discussion Boards in SCE,Closed,Close,Database,30-04-2021,11-11-2021,"$16,275.00 ",9,Cost,_,3
+DAT304,Bayes Hot Desking,Closed,Close,Front-end Developer,26-04-2021,11-08-2021,"$16,893.18 ",14,Duration,_,1
+DLIB008,DAMS Implementation,Closed,Close,Back-end Developer,23-04-2021,23-06-2022,"$16,145.28 ",15,Cost,_,5
+MOOC040,Live at COP26,Closed,Close,Database,23-04-2021,17-12-2021,"$14,900.83 ",13,Duration,_,6
+WPS009,Replace EdWeb Infrastructure,Closed,Close,Back-end Developer,16-04-2021,02-09-2021,"$14,969.98 ",15,Cost,_,1
+RSS302,Research Infrastructure Refresh 20-21,Closed,Close,Front-end Developer,12-04-2021,02-02-2022,"$14,525.00 ",12,Duration,_,2
+P0347,Transition resources,Not Started,Initiate,Database,08-04-2021,09-07-2012,"$13,900.42 ",8,Cost,_,5
+AV2927,IGMM Meeting Rooms SG.03 & C3.02,Closed,Close,Back-end Developer,08-04-2021,30-07-2021,"$13,580.01 ",7,Duration,_,6
+AV2922,IGMM Expansion,Suspended,Design,Front-end Developer,01-04-2021,15-09-2023,"$14,309.69 ",5,Duration,_,1
+LUC056,UCF insurance claim project,In Progress,Build,Back-end Developer,01-04-2021,14-02-2024,"$13,397.98 ",15,Duration,_,2
+RIS018,Worktribe Upgrade v2021.1,Closed,Close,Database,01-04-2021,17-06-2021,"$14,100.00 ",6,Cost,_,4
+DLIB007,Access to All: GLAM Data and API Service,In Progress,Execute,Front-end Developer,01-04-2021,23-12-2022,"$12,068.29 ",15,Duration,_,3
+COM060,MFA Rollout for O365 Email,Withdrawn,Close,Back-end Developer,01-04-2021,15-06-2022,"$10,367.91 ",10,Cost,_,1
+HRS099,HESA staff return - 20/21,Withdrawn,Initiate,Database,01-04-2021,12-11-2021,"$11,751.16 ",15,Duration,_,5
+ISG020,IT and Library Business Service Readiness for Start of Term 2021/22,Closed,Close,Front-end Developer,29-03-2021,03-12-2021,"$11,650.01 ",9,Cost,_,6
+AV2926,Chrystal McMillan - Hybrid Spaces,Closed,Close,Back-end Developer,29-03-2021,31-08-2022,"$12,830.01 ",14,Duration,_,1
+DTI057,EventsAir - Embed and Optimise,Closed,Close,Database,26-03-2021,13-05-2022,"$11,311.86 ",15,Cost,_,2
+LUC041,Community Connector: At Home with Heritage,Closed,Close,Back-end Developer,21-03-2021,31-07-2022,"$10,549.01 ",13,Duration,_,5
+USG018,Mapping International Data Transfer,Closed,Close,Front-end Developer,15-03-2021,21-10-2021,"$11,308.73 ",15,Cost,_,6
+USG017,Clearing 2021,Closed,Close,Database,15-03-2021,24-09-2021,"$11,033.26 ",12,Duration,_,1
+MVM146,MBChB Supported Student Database,Closed,Close,Back-end Developer,12-03-2021,22-06-2021,"$10,875.02 ",8,Cost,_,2
+IDR305,Azure Governance and Operations,In Progress,Execute,Front-end Developer,08-03-2021,30-09-2022,"$11,091.00 ",7,Duration,_,4
+WPS008,Web Publishing Platform Implementation,In Progress,Execute,Back-end Developer,08-03-2021,14-04-2023,"$11,480.00 ",5,Cost,_,3
+ACS043,Delivered Catering Implementation,In Progress,Execute,Back-end Developer,08-03-2021,30-09-2022,"$11,425.99 ",15,Duration,_,1
+LUC052,"Exploring and scoping the Polar archival collections of William Speirs Bruce, the 1872-1876 expedition of HMS Challenger",Closed,Close,Database,01-03-2021,31-08-2021,"$11,082.29 ",6,Cost,_,5
+LUC053,"One Health: human responsibility for animal health and welfare in Scotland, 1840-present",In Progress,Execute,Front-end Developer,01-03-2021,29-09-2023,"$10,366.01 ",15,Duration,_,6
+LUC055,Adam Smith Library/EFI internships,Closed,Close,Back-end Developer,01-03-2021,01-09-2021,"$9,962.49 ",10,Duration,_,1
